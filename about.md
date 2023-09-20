@@ -13,3 +13,21 @@ I am mainly insterested in GRB afterglows and optical GW counterparts. I really 
 I have a BSc in Astronomy from Universidad Autónoma de Sinaloa. 
 
 Outside of academia, I really enjoy watching TV series and cool movies that leave me feeling like *???*. I specially love when I watch weird movies with my friends. 
+
+I adore cats and have 4 of them:
+
+* Gato 
+
+![image of a white cat in front of a cup of coffee](/Images/Gato.jpg "Gato")
+
+* Gata
+
+![image of a white cat next to plants](Images/Gata.jpg "Gata")
+
+* Gatita
+
+![image of a calico cat](Images/Gatita.jpg "Gatita")
+
+* Gatitita
+
+![image of a calico cat being lit by sunshine](Images/Gatitita.jpg "Gatitita")
