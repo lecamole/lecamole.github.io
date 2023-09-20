@@ -22,12 +22,12 @@ I adore cats and have 4 of them:
 
 * Gata
 
-![image of a white cat next to plants](Images/Gata.jpg "Gata")
+![image of a white cat next to plants](/Images/Gata.jpg "Gata")
 
 * Gatita
 
-![image of a calico cat](Images/Gatita.jpg "Gatita")
+![image of a calico cat](/Images/Gatita.jpg "Gatita")
 
 * Gatitita
 
-![image of a calico cat being lit by sunshine](Images/Gatitita.jpg "Gatitita")
+![image of a calico cat being lit by sunshine](/Images/Gatitita.jpg "Gatitita")
