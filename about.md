@@ -31,3 +31,4 @@ I adore cats and have 4 of them:
 * Gatitita
 
 ![image of a calico cat being lit by sunshine](/Images/Gatitita.jpg "Gatitita")
+

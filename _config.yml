@@ -28,7 +28,7 @@ twitter_username: lecamole
 github_username:  lecamole
 
 # Build settings
-remote_theme: Moon
+theme: minima
 plugins:
   - jekyll-feed
 
