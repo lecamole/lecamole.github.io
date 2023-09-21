@@ -18,17 +18,17 @@ I adore cats and have 4 of them:
 
 * Gato 
 
-![image of a white cat in front of a cup of coffee](/Images/Gato.jpg "Gato")
+![image of a white cat in front of a cup of coffee](/assets/img/Gato.jpg "Gato")
 
 * Gata
 
-![image of a white cat next to plants](/Images/Gata.jpg "Gata")
+![image of a white cat next to plants](/assets/imgGata.jpg "Gata")
 
 * Gatita
 
-![image of a calico cat](/Images/Gatita.jpg "Gatita")
+![image of a calico cat](/assets/img/Gatita.jpg "Gatita")
 
 * Gatitita
 
-![image of a calico cat being lit by sunshine](/Images/Gatitita.jpg "Gatitita")
+![image of a calico cat being lit by sunshine](/assets/img/Gatitita.jpg "Gatitita")
 
