@@ -22,7 +22,7 @@ I adore cats and have 4 of them:
 
 * Gata
 
-![image of a white cat next to plants](/assets/imgGata.jpg "Gata")
+![image of a white cat next to plants](/assets/Gata.jpg "Gata")
 
 * Gatita
 
